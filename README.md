@@ -51,10 +51,8 @@ FastAPI & Node microservices · Relational architectures · Strict contract vali
 
 <div align="center">
 
-[ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &emsp;·&emsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &emsp;·&emsp; [ **RESUME** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
+[ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &emsp;·&emsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &emsp;·&emsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
 
 <br />
-
-<sub>DHRUV RATHI &nbsp;·&nbsp; VIT CHENNAI &nbsp;·&nbsp; CLASS OF 2027</sub>
 
 </div>
