@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="auto" role="img" aria-label="Dhruv Rathi - AI/ML • Data • SDE">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C16" />
+      <stop offset="50%" stop-color="#0D1527" />
+      <stop offset="100%" stop-color="#080C16" />
+    </linearGradient>
+
+    <!-- Subtle Blue Radial Glows -->
+    <radialGradient id="glowLeft" cx="15%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#1D4ED8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#080C16" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="80%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#080C16" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="techGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+
+    <!-- Arrow Marker -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#38BDF8" />
+    </marker>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .title { font-weight: 800; fill: #F8FAFC; letter-spacing: 0.5px; }
+    .domain { font-weight: 700; fill: #38BDF8; letter-spacing: 2px; }
+    .tagline { font-weight: 400; fill: #94A3B8; font-style: italic; }
+    .meta { font-weight: 500; fill: #64748B; letter-spacing: 1px; }
+    .node-title { font-weight: 700; fill: #F1F5F9; font-size: 11px; letter-spacing: 1px; }
+    .node-sub { font-weight: 500; fill: #64748B; font-size: 9px; }
+    .badge-text { font-weight: 600; fill: #38BDF8; font-size: 10.5px; letter-spacing: 0.8px; }
+  </style>
+
+  <!-- Container Box with Rounded Corners and Subtle Border -->
+  <rect width="920" height="220" rx="14" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.2" />
+  
+  <!-- Subtle Grids & Glows -->
+  <rect width="920" height="220" rx="14" fill="url(#techGrid)" />
+  <rect width="920" height="220" rx="14" fill="url(#glowLeft)" />
+  <rect width="920" height="220" rx="14" fill="url(#glowRight)" />
+
+  <!-- LEFT COLUMN: Identity & Positioning -->
+  <!-- Availability Status Pill -->
+  <g transform="translate(42, 28)">
+    <rect width="272" height="26" rx="13" fill="#0C1A30" stroke="#0369A1" stroke-width="1" />
+    <circle cx="15" cy="13" r="4.5" fill="#38BDF8" />
+    <circle cx="15" cy="13" r="7.5" fill="none" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.5" />
+    <text x="27" y="16.5" class="sans badge-text">OPEN TO AI/ML • DATA • SDE ROLES</text>
+  </g>
+
+  <!-- Name -->
+  <text x="42" y="93" class="sans title" font-size="34">DHRUV RATHI</text>
+
+  <!-- Role Subtitle -->
+  <text x="42" y="123" class="sans domain" font-size="14.5">AI / ML  •  DATA  •  SDE</text>
+
+  <!-- Positioning Statement -->
+  <text x="42" y="156" class="sans tagline" font-size="14.5">“Turning models into systems. Systems into products.”</text>
+
+  <!-- Institutional Metadata -->
+  <text x="42" y="188" class="mono meta" font-size="11">VIT CHENNAI • B.TECH (ECE) • CLASS OF 2027</text>
+
+  <!-- Vertical Divider -->
+  <line x1="480" y1="28" x2="480" y2="192" stroke="#1E293B" stroke-width="1" stroke-dasharray="3,3" />
+
+  <!-- RIGHT COLUMN: System Flow Diagram (MODEL -> DATA -> SYSTEM -> PRODUCT) -->
+  <!-- Header for Flow -->
+  <text x="505" y="44" class="mono meta" font-size="10.5">ENGINEERING BLUEPRINT</text>
+
+  <!-- Flow Connecting Lines -->
+  <line x1="575" y1="95" x2="600" y2="95" stroke="#2563EB" stroke-width="1.4" marker-end="url(#arrow)" />
+  <line x1="675" y1="95" x2="700" y2="95" stroke="#2563EB" stroke-width="1.4" marker-end="url(#arrow)" />
+  <line x1="775" y1="95" x2="800" y2="95" stroke="#2563EB" stroke-width="1.4" marker-end="url(#arrow)" />
+
+  <!-- Node 1: MODEL -->
+  <g transform="translate(505, 68)">
+    <rect width="70" height="54" rx="8" fill="#0B132B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="8" y="18" class="mono" font-size="9" fill="#38BDF8">01</text>
+    <text x="8" y="34" class="sans node-title">MODEL</text>
+    <text x="8" y="46" class="sans node-sub">Inference</text>
+  </g>
+
+  <!-- Node 2: DATA -->
+  <g transform="translate(605, 68)">
+    <rect width="70" height="54" rx="8" fill="#0B132B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="8" y="18" class="mono" font-size="9" fill="#38BDF8">02</text>
+    <text x="8" y="34" class="sans node-title">DATA</text>
+    <text x="8" y="46" class="sans node-sub">Pipelines</text>
+  </g>
+
+  <!-- Node 3: SYSTEM -->
+  <g transform="translate(705, 68)">
+    <rect width="70" height="54" rx="8" fill="#0B132B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="8" y="18" class="mono" font-size="9" fill="#38BDF8">03</text>
+    <text x="8" y="34" class="sans node-title">SYSTEM</text>
+    <text x="8" y="46" class="sans node-sub">APIs &amp; RAG</text>
+  </g>
+
+  <!-- Node 4: PRODUCT -->
+  <g transform="translate(805, 68)">
+    <rect width="72" height="54" rx="8" fill="#0B132B" stroke="#0284C7" stroke-width="1" />
+    <text x="8" y="18" class="mono" font-size="9" fill="#38BDF8">04</text>
+    <text x="8" y="34" class="sans node-title">PRODUCT</text>
+    <text x="8" y="46" class="sans node-sub">Production</text>
+  </g>
+
+  <!-- Telemetry/Philosophy Indicator Panel -->
+  <g transform="translate(505, 142)">
+    <rect width="372" height="46" rx="7" fill="#08101E" stroke="#1E293B" stroke-width="0.9" />
+    <circle cx="16" cy="23" r="3" fill="#10B981" />
+    <text x="28" y="20" class="mono" font-size="9.5" fill="#64748B">ARCHITECTURE PHILOSOPHY</text>
+    <text x="28" y="35" class="sans" font-size="11" font-weight="600" fill="#E2E8F0">RETRIEVE  →  REASON  →  VERIFY  →  SHIP</text>
+  </g>
+</svg>

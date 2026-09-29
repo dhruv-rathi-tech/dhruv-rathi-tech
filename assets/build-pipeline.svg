@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 110" width="100%" height="auto" role="img" aria-label="Retrieve -> Reason -> Verify -> Ship Engineering Pipeline">
+  <defs>
+    <linearGradient id="pipeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090E1A" />
+      <stop offset="100%" stop-color="#0D1629" />
+    </linearGradient>
+    <marker id="pipeArrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#38BDF8" />
+    </marker>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .step-num { font-size: 10px; font-weight: 700; fill: #38BDF8; }
+    .step-title { font-size: 13px; font-weight: 800; fill: #F8FAFC; letter-spacing: 1px; }
+    .step-desc { font-size: 9.5px; font-weight: 400; fill: #94A3B8; }
+  </style>
+
+  <!-- Canvas Container -->
+  <rect width="880" height="110" rx="10" fill="url(#pipeBg)" stroke="#1E293B" stroke-width="1.2" />
+
+  <!-- Connecting Lines -->
+  <line x1="205" y1="55" x2="235" y2="55" stroke="#2563EB" stroke-width="1.5" marker-end="url(#pipeArrow)" />
+  <line x1="420" y1="55" x2="450" y2="55" stroke="#2563EB" stroke-width="1.5" marker-end="url(#pipeArrow)" />
+  <line x1="635" y1="55" x2="665" y2="55" stroke="#2563EB" stroke-width="1.5" marker-end="url(#pipeArrow)" />
+
+  <!-- Stage 1: RETRIEVE -->
+  <g transform="translate(25, 20)">
+    <rect width="180" height="70" rx="8" fill="#0C152B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="14" y="24" class="mono step-num">01 / RETRIEVE</text>
+    <text x="14" y="44" class="sans step-title">CONTEXT FIRST</text>
+    <text x="14" y="58" class="sans step-desc">Ground systems with rich data</text>
+  </g>
+
+  <!-- Stage 2: REASON -->
+  <g transform="translate(240, 20)">
+    <rect width="180" height="70" rx="8" fill="#0C152B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="14" y="24" class="mono step-num">02 / REASON</text>
+    <text x="14" y="44" class="sans step-title">INTELLIGENCE</text>
+    <text x="14" y="58" class="sans step-desc">Apply models where they add value</text>
+  </g>
+
+  <!-- Stage 3: VERIFY -->
+  <g transform="translate(455, 20)">
+    <rect width="180" height="70" rx="8" fill="#0C152B" stroke="#1D4ED8" stroke-width="1" />
+    <text x="14" y="24" class="mono step-num">03 / VERIFY</text>
+    <text x="14" y="44" class="sans step-title">DETERMINISM</text>
+    <text x="14" y="58" class="sans step-desc">Guardrail outputs &amp; citations</text>
+  </g>
+
+  <!-- Stage 4: SHIP -->
+  <g transform="translate(670, 20)">
+    <rect width="185" height="70" rx="8" fill="#0C152B" stroke="#0284C7" stroke-width="1" />
+    <text x="14" y="24" class="mono step-num">04 / SHIP</text>
+    <text x="14" y="44" class="sans step-title">PRODUCTION</text>
+    <text x="14" y="58" class="sans step-desc">Deliver robust, usable software</text>
+  </g>
+</svg>
