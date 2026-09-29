@@ -18,8 +18,6 @@ flowchart LR
     style S fill:#c85a32,stroke:#FAF7F2,stroke-width:1px,color:#FAF7F2
 ```
 
-<br />
-
 ---
 
 ### TECH STACK
@@ -57,8 +55,6 @@ flowchart LR
 </div>
 
 ---
-
-<br />
 
 ### SOCIALS
 
