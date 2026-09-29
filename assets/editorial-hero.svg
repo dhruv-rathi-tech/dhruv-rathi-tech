@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="auto" role="img" aria-label="Dhruv Rathi - Editorial Engineering Profile">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Inter", sans-serif; }
+      .serif { font-family: ui-serif, Georgia, "Times New Roman", Cambria, serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Editorial Plate Canvas -->
+  <rect width="900" height="240" rx="6" fill="#111215" stroke="#23252B" stroke-width="1.2" />
+
+  <!-- Top Masthead Bar -->
+  <text x="44" y="32" class="mono" font-size="9.5" fill="#7E7A72" letter-spacing="2">EDITORIAL PROFILE // VOL. 2027</text>
+  <line x1="280" y1="28" x2="680" y2="28" stroke="#1E2026" stroke-width="1" />
+  <text x="856" y="32" text-anchor="end" class="mono" font-size="9.5" fill="#7E7A72" letter-spacing="1.5">CHENNAI, IN</text>
+  <line x1="44" y1="44" x2="856" y2="44" stroke="#1E2026" stroke-width="1" />
+
+  <!-- Left Column: Primary Typography -->
+  <text x="44" y="104" class="sans" font-size="44" font-weight="850" fill="#FAF7F2" letter-spacing="1">DHRUV RATHI</text>
+  <text x="46" y="132" class="mono" font-size="11" font-weight="600" fill="#C85A32" letter-spacing="2.8">AI / ML  ·  DATA SYSTEMS  ·  SOFTWARE</text>
+  <text x="46" y="168" class="serif" font-style="italic" font-size="17" fill="#D6CFBF">“Turning models into systems. Systems into products.”</text>
+  <text x="46" y="198" class="sans" font-size="11" fill="#7E7A72" letter-spacing="0.4">Electronics &amp; Computer Engineering  ·  Vellore Institute of Technology  ·  Class of 2027</text>
+
+  <!-- Column Divider Rule -->
+  <line x1="616" y1="58" x2="616" y2="216" stroke="#1E2026" stroke-width="1" stroke-dasharray="2,3" />
+
+  <!-- Right Column: Status & Spec -->
+  <rect x="644" y="68" width="212" height="74" rx="4" fill="#17181D" stroke="#2B2D35" stroke-width="1" />
+  <circle cx="664" cy="90" r="3.5" fill="#C85A32" />
+  <text x="674" y="93" class="mono" font-size="8.5" font-weight="700" fill="#C85A32" letter-spacing="1.5">DISPOSITION</text>
+  <text x="664" y="115" class="sans" font-size="13.5" font-weight="700" fill="#FAF7F2">OPEN TO ROLES</text>
+  <text x="664" y="131" class="mono" font-size="9.5" fill="#9A968E">AI/ML · Data · SDE</text>
+
+  <!-- Colophon Annotations -->
+  <text x="644" y="172" class="mono" font-size="8.5" fill="#6B6760" letter-spacing="1.2">SYSTEM SPECIFICATION</text>
+  <text x="644" y="189" class="mono" font-size="9" fill="#9A968E">HYBRID APPLIED AI &amp; SDE</text>
+  <text x="644" y="204" class="mono" font-size="8.5" fill="#6B6760">DETERMINISTIC CONSTRAINTS</text>
+
+  <!-- Bottom Hairline Rule -->
+  <line x1="44" y1="222" x2="856" y2="222" stroke="#1E2026" stroke-width="1" />
+</svg>

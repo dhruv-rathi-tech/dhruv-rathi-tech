@@ -1,86 +1,74 @@
 <div align="center">
   <a href="https://dhruvrathi.pages.dev">
-    <img src="./assets/profile-schematic.svg" alt="Dhruv Rathi — AI/ML &amp; Software Systems" width="100%" />
+    <img src="./assets/editorial-hero.svg" alt="Dhruv Rathi — Editorial Engineering Profile" width="100%" />
   </a>
+</div>
 
-  <br /><br />
+<br />
 
-  [ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &nbsp;·&nbsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &nbsp;·&nbsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
+### ABOUT
 
+Final-year Electronics & Computer Engineering student at VIT Chennai.
+
+I build across machine learning, generative AI, data systems, and software engineering. Most of my work focuses on the translation layer — bridging probabilistic model inference with deterministic, resilient production software.
+
+<br />
+
+---
+
+### SYSTEMS SYNTHESIS
+
+<div align="center">
+  <img src="./assets/systems-composition.svg" alt="Systems Synthesis — Probabilistic Inference Bound by Deterministic Architecture" width="100%" />
+</div>
+
+<p align="center">
+  <sub>FIGURE 01 &nbsp;·&nbsp; THE INTERSECTION OF STATISTICAL INFERENCE, RETRIEVAL MANIFOLDS, AND RUNTIME CONSTRAINTS</sub>
+</p>
+
+<br />
+
+---
+
+### WHAT I BUILD
+
+**AI & MACHINE LEARNING**  
+Predictive modeling · Deep learning architectures · Computer vision · Applied ML inference
+
+**GENERATIVE AI & RETRIEVAL**  
+Hybrid RAG · Dense & sparse vector search · Cross-encoder reranking · High-dimensional embeddings
+
+**AGENTIC SYSTEMS**  
+Tool orchestration · Multi-step reasoning · Self-correcting workflows · Invariant validation
+
+**DATA PLATFORMS**  
+Advanced SQL schemas · Telemetry & ETL pipelines · Time-series forecasting · Anomaly detection
+
+**SOFTWARE ENGINEERING**  
+FastAPI & Node microservices · Relational architectures · Strict contract validation · Concurrency
+
+<br />
+
+---
+
+### APPARATUS
+
+<div align="center">
+  <img src="./assets/tech-stack.svg" alt="Curated Toolbox — Technologies and Systems" width="100%" />
 </div>
 
 <br />
 
 ---
 
-### / 01 &nbsp; THESIS
-
-Final-year Electronics & Computer Engineering student at VIT Chennai.
-
-I work across machine learning, generative AI, data systems, and software engineering — specifically where a probabilistic model has to become a deterministic, reliable product.
-
-I build systems that retrieve before they reason, verify before they trust, and ship before they overcomplicate.
-
----
-
-### / 02 &nbsp; DISCIPLINES & FOCUS
-
-```
-AI / ML              predictive modeling · deep learning · computer vision · NLP · applied ML
-GENERATIVE AI        hybrid RAG · dense/sparse retrieval · cross-encoder reranking · embeddings
-AGENTIC WORKFLOWS    tool orchestration · multi-step reasoning · adaptive replanning · validation
-DATA SYSTEMS         advanced SQL · telemetry ETL · time-series forecasting · anomaly detection
-SOFTWARE             FastAPI & Node services · relational schemas · RBAC & OAuth · concurrency
-INTELLIGENT SYSTEMS  bridging stochastic model inference with deterministic software constraints
-```
-
----
-
-### / 03 &nbsp; METHOD
-
-```
-[ RETRIEVE ]    Context before generation. Ground systems in verifiable data before asking them to act.
-     ↓
-[ REASON   ]    Intelligence where it matters. Apply models only where heuristics and rules fall short.
-     ↓
-[ VERIFY   ]    Ground truth over guesswork. Enforce schema contracts, citation checks, and invariant locks.
-     ↓
-[ SHIP     ]    Software over notebooks. Wrap intelligence into observable, resilient, deployable systems.
-```
-
----
-
-### / 04 &nbsp; APPARATUS & STACK
-
-**LANGUAGES**  
-`Python` · `Java` · `C / C++` · `JavaScript` · `TypeScript` · `SQL`
-
-**INTELLIGENCE & MODELING**  
-`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `SentenceTransformers` · `OpenCV`
-
-**RETRIEVAL & AGENTS**  
-`LangChain` · `ChromaDB` · `BM25 Sparse Search` · `Cross-Encoder Reranking` · `Groq` · `Pydantic`
-
-**APPLICATIONS & SERVICES**  
-`FastAPI` · `Node.js` · `Express.js` · `React` · `Next.js` · `Streamlit`
-
-**DATA & INFRASTRUCTURE**  
-`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Docker` · `Git`
-
----
-
-### / 05 &nbsp; DISPATCH
-
-```
-PORTFOLIO    https://dhruvrathi.pages.dev
-LINKEDIN     https://www.linkedin.com/in/dhruv-rathi-31dr
-GITHUB       https://github.com/dhruv-rathi-tech
-RESUME       https://dhruvrathi.pages.dev
-EMAIL        rathidhruv3112@gmail.com
-```
-
----
+<br />
 
 <div align="center">
-  <sub>DHRUV RATHI · 2027</sub>
+
+[ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &emsp;·&emsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &emsp;·&emsp; [ **RESUME** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
+
+<br />
+
+<sub>DHRUV RATHI &nbsp;·&nbsp; VIT CHENNAI &nbsp;·&nbsp; CLASS OF 2027</sub>
+
 </div>
