@@ -1,23 +1,11 @@
 <div align="center">
   <a href="https://dhruvrathi.pages.dev">
-    <img src="./assets/profile-schematic.svg" alt="Dhruv Rathi — Technical Specimen Plate" width="100%" />
+    <img src="./assets/profile-schematic.svg" alt="Dhruv Rathi — AI/ML &amp; Software Systems" width="100%" />
   </a>
-</div>
 
-<div align="center">
+  <br /><br />
 
-```
-D H R U V   R A T H I
-AI / ML  ·  DATA  ·  SOFTWARE
-
-"Turning models into systems. Systems into products."
-```
-
-`● OPEN TO AI/ML • DATA • SDE ROLES`
-
-<br />
-
-[ **DOSSIER** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &nbsp;·&nbsp; [ **CODEBASE** ](https://github.com/dhruv-rathi-tech) &nbsp;·&nbsp; [ **RESUME** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **DIRECT** ](mailto:rathidhruv3112@gmail.com)
+  [ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &nbsp;·&nbsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &nbsp;·&nbsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
 
 </div>
 
@@ -94,5 +82,5 @@ EMAIL        rathidhruv3112@gmail.com
 ---
 
 <div align="center">
-  <sub>TECHNICAL FIELD NOTES / DHRUV RATHI — 2027</sub>
+  <sub>DHRUV RATHI · 2027</sub>
 </div>
