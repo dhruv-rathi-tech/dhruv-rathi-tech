@@ -1,91 +1,98 @@
-# Dhruv Rathi
-
 <div align="center">
   <a href="https://dhruvrathi.pages.dev">
-    <img src="./assets/github-profile-banner.svg" alt="Dhruv Rathi - AI/ML • Data • SDE" width="100%" />
+    <img src="./assets/profile-schematic.svg" alt="Dhruv Rathi — Technical Specimen Plate" width="100%" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://dhruvrathi.pages.dev"><strong>Portfolio</strong></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/dhruv-rathi-31dr"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
-  <a href="https://github.com/dhruv-rathi-tech"><strong>GitHub</strong></a> &nbsp;•&nbsp;
-  <a href="https://dhruvrathi.pages.dev"><strong>Resume</strong></a> &nbsp;•&nbsp;
-  <a href="mailto:rathidhruv3112@gmail.com"><strong>Email</strong></a>
-</p>
-
-<p align="center">
-  <code>🟢 OPEN TO AI/ML • DATA • SDE ROLES</code>
-</p>
-
----
-
-## About Me
-
-I am a final-year B.Tech student in Electronics and Computer Engineering at VIT Chennai, building AI-powered applications, data pipelines, and production-oriented software systems. My work spans predictive modeling, retrieval-augmented generation (RAG), agentic workflows, and full-stack backend architectures. I focus on bridging the gap between raw models and real-world utility—designing grounded, deterministic systems that turn experiments into reliable, high-performance software.
-
----
-
-## What I'm Into
-
-| Domain | Focus Areas & Capabilities |
-| :--- | :--- |
-| **AI / ML** | Predictive modeling • Deep learning • Computer vision • NLP • Applied machine learning |
-| **Generative AI** | RAG • LLM applications • Embeddings • Dense/sparse retrieval • Cross-encoder reranking • Prompt engineering |
-| **Agentic Systems** | Tool calling • Multi-agent workflows • AI automation • Structured reasoning • Verification workflows |
-| **Data** | Advanced SQL • Telemetry & EDA • Time-series forecasting • Anomaly detection • Feature engineering |
-| **Software Engineering** | Full-stack applications • REST APIs • Relational schemas • Authentication & RBAC • Async workflows • Production systems |
-| **Intelligent Systems** | ML-software integration • AI-assisted decision systems • Concurrency control • Research-oriented ML architectures |
-
----
-
-## How I Like to Build
-
 <div align="center">
-  <img src="./assets/build-pipeline.svg" alt="Retrieve -> Reason -> Verify -> Ship Engineering Pipeline" width="100%" />
+
+```
+D H R U V   R A T H I
+AI / ML  ·  DATA  ·  SOFTWARE
+
+"Turning models into systems. Systems into products."
+```
+
+`● OPEN TO AI/ML • DATA • SDE ROLES`
+
+<br />
+
+[ **DOSSIER** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &nbsp;·&nbsp; [ **CODEBASE** ](https://github.com/dhruv-rathi-tech) &nbsp;·&nbsp; [ **RESUME** ](https://dhruvrathi.pages.dev) &nbsp;·&nbsp; [ **DIRECT** ](mailto:rathidhruv3112@gmail.com)
+
 </div>
 
 <br />
 
-`[ 01 · RETRIEVE ]` &nbsp; **Context First**  
-Give systems the right information before asking them to act. Whether through dense vector embeddings, BM25 keyword search, or structured database telemetry, high-leverage software begins with grounded, domain-specific retrieval.
+---
 
-`[ 02 · REASON ]` &nbsp; **Targeted Intelligence**  
-Use models and machine intelligence where they provide meaningful value. From attention-based classification and forecasting to LLM orchestration, intelligence should solve core operational friction rather than serve as superficial novelty.
+### / 01 &nbsp; THESIS
 
-`[ 03 · VERIFY ]` &nbsp; **Grounded & Deterministic**  
-Keep important outputs grounded, reproducible, and deterministic where appropriate. Enforce schema validations, citation checks, guardrails, and concurrency controls so the system behaves predictably under production constraints.
+Final-year Electronics & Computer Engineering student at VIT Chennai.
 
-`[ 04 · SHIP ]` &nbsp; **Production Software**  
-Turn experiments into usable, accessible software instead of stopping at a notebook. Wrap intelligence in resilient backend APIs, intuitive interfaces, and robust deployment pipelines that deliver tangible user value.
+I work across machine learning, generative AI, data systems, and software engineering — specifically where a probabilistic model has to become a deterministic, reliable product.
+
+I build systems that retrieve before they reason, verify before they trust, and ship before they overcomplicate.
 
 ---
 
-## Tech Stack
+### / 02 &nbsp; DISCIPLINES & FOCUS
 
-| Category | Technologies & Tooling |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `C / C++` `JavaScript` `TypeScript` `SQL` |
-| **AI / Machine Learning** | `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` |
-| **GenAI / NLP** | `RAG` `LLM Integration` `LangChain` `SentenceTransformers` `Groq` `Hugging Face` |
-| **Retrieval & Search** | `ChromaDB` `BM25 Sparse Search` `Dense Embeddings` `Cross-Encoder Reranking` |
-| **Backend & APIs** | `FastAPI` `Node.js` `Express.js` `REST APIs` `Async Endpoints` `JWT & OAuth` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `Streamlit` |
-| **Databases & Storage** | `PostgreSQL` `MySQL` `SQLite` `Redis` |
-| **Tools & Infrastructure** | `Git` `GitHub` `Docker` `Linux` `Postman` `Pydantic` |
+```
+AI / ML              predictive modeling · deep learning · computer vision · NLP · applied ML
+GENERATIVE AI        hybrid RAG · dense/sparse retrieval · cross-encoder reranking · embeddings
+AGENTIC WORKFLOWS    tool orchestration · multi-step reasoning · adaptive replanning · validation
+DATA SYSTEMS         advanced SQL · telemetry ETL · time-series forecasting · anomaly detection
+SOFTWARE             FastAPI & Node services · relational schemas · RBAC & OAuth · concurrency
+INTELLIGENT SYSTEMS  bridging stochastic model inference with deterministic software constraints
+```
 
 ---
 
-## Connect / Explore
+### / 03 &nbsp; METHOD
 
-- **Portfolio**: [dhruvrathi.pages.dev](https://dhruvrathi.pages.dev)
-- **LinkedIn**: [linkedin.com/in/dhruv-rathi-31dr](https://www.linkedin.com/in/dhruv-rathi-31dr)
-- **GitHub**: [github.com/dhruv-rathi-tech](https://github.com/dhruv-rathi-tech)
-- **Resume**: [View Resumes on Portfolio](https://dhruvrathi.pages.dev)
-- **Email**: [rathidhruv3112@gmail.com](mailto:rathidhruv3112@gmail.com)
+```
+[ RETRIEVE ]    Context before generation. Ground systems in verifiable data before asking them to act.
+     ↓
+[ REASON   ]    Intelligence where it matters. Apply models only where heuristics and rules fall short.
+     ↓
+[ VERIFY   ]    Ground truth over guesswork. Enforce schema contracts, citation checks, and invariant locks.
+     ↓
+[ SHIP     ]    Software over notebooks. Wrap intelligence into observable, resilient, deployable systems.
+```
+
+---
+
+### / 04 &nbsp; APPARATUS & STACK
+
+**LANGUAGES**  
+`Python` · `Java` · `C / C++` · `JavaScript` · `TypeScript` · `SQL`
+
+**INTELLIGENCE & MODELING**  
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `SentenceTransformers` · `OpenCV`
+
+**RETRIEVAL & AGENTS**  
+`LangChain` · `ChromaDB` · `BM25 Sparse Search` · `Cross-Encoder Reranking` · `Groq` · `Pydantic`
+
+**APPLICATIONS & SERVICES**  
+`FastAPI` · `Node.js` · `Express.js` · `React` · `Next.js` · `Streamlit`
+
+**DATA & INFRASTRUCTURE**  
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Docker` · `Git`
+
+---
+
+### / 05 &nbsp; DISPATCH
+
+```
+PORTFOLIO    https://dhruvrathi.pages.dev
+LINKEDIN     https://www.linkedin.com/in/dhruv-rathi-31dr
+GITHUB       https://github.com/dhruv-rathi-tech
+RESUME       https://dhruvrathi.pages.dev
+EMAIL        rathidhruv3112@gmail.com
+```
 
 ---
 
 <div align="center">
-  <sub>AI • Data • Software Engineering &nbsp;|&nbsp; Turning models into systems. Systems into products.</sub>
+  <sub>TECHNICAL FIELD NOTES / DHRUV RATHI — 2027</sub>
 </div>
