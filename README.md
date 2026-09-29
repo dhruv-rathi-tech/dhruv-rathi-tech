@@ -22,7 +22,7 @@ flowchart LR
 
 ---
 
-### 💻 TECH STACK
+### TECH STACK
 
 <div align="center">
 
@@ -56,9 +56,11 @@ flowchart LR
 
 </div>
 
+---
+
 <br />
 
-### 🌐 SOCIALS
+### SOCIALS
 
 <div align="center">
 
