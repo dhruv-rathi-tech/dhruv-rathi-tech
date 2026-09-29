@@ -4,34 +4,9 @@
   </a>
 </div>
 
-<br />
-
-### ABOUT
-
-Final-year Electronics & Computer Engineering student at VIT Chennai.
-
-I build across machine learning, generative AI, data systems, and software engineering. Most of my work focuses on the translation layer — bridging probabilistic model inference with deterministic, resilient production software.
-
-<br />
-
----
-
-### WHAT I BUILD
-
-**AI & MACHINE LEARNING**  
-Predictive modeling · Deep learning architectures · Computer vision · NLP · Applied ML inference
-
-**GENERATIVE AI & RETRIEVAL**  
-Hybrid RAG · Dense & sparse vector search · Cross-encoder reranking · High-dimensional embeddings
-
-**AGENTIC SYSTEMS**  
-Tool orchestration · Multi-step reasoning · Self-correcting workflows · Invariant validation
-
-**DATA PLATFORMS**  
-Advanced SQL schemas · Telemetry & ETL pipelines · Time-series forecasting · Anomaly detection
-
-**SOFTWARE ENGINEERING**  
-FastAPI & Node microservices · Relational architectures · Strict contract validation · Concurrency
+<div align="center">
+  <img src="./assets/systems-architecture.svg" alt="Dhruv Rathi — Systems Architecture &amp; Disciplines" width="100%" />
+</div>
 
 <br />
 
