@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="./assets/systems-architecture.svg" alt="Dhruv Rathi — Systems Architecture &amp; Disciplines" width="100%" />
-</div>
-
 <br />
 
 ---
@@ -46,14 +42,17 @@
 
 <br />
 
----
-
-<br />
+### 🌐 SOCIALS
 
 <div align="center">
 
-[ **PORTFOLIO** ](https://dhruvrathi.pages.dev) &emsp;·&emsp; [ **LINKEDIN** ](https://www.linkedin.com/in/dhruv-rathi-31dr) &emsp;·&emsp; [ **GITHUB** ](https://github.com/dhruv-rathi-tech) &emsp;·&emsp; [ **EMAIL** ](mailto:rathidhruv3112@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhruvrathi.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rathi-31dr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv-rathi-tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathidhruv3112@gmail.com)
 
-<br />
+<br /><br />
+
+<sub>DHRUV RATHI &nbsp;·&nbsp; VIT CHENNAI &nbsp;·&nbsp; CLASS OF 2027</sub>
 
 </div>
