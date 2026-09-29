@@ -16,20 +16,6 @@ I build across machine learning, generative AI, data systems, and software engin
 
 ---
 
-### SYSTEMS SYNTHESIS
-
-<div align="center">
-  <img src="./assets/systems-composition.svg" alt="Systems Synthesis — Probabilistic Inference Bound by Deterministic Architecture" width="100%" />
-</div>
-
-<p align="center">
-  <sub>FIGURE 01 &nbsp;·&nbsp; THE INTERSECTION OF STATISTICAL INFERENCE, RETRIEVAL MANIFOLDS, AND RUNTIME CONSTRAINTS</sub>
-</p>
-
-<br />
-
----
-
 ### WHAT I BUILD
 
 **AI & MACHINE LEARNING**  
